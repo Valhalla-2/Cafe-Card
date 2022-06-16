@@ -1,0 +1,23 @@
+body {
+    /* background: url(https://images6.alphacoders.com/693/thumb-1920-693085.jpg); */
+    background: #141414;
+    box-sizing: border-box;
+}
+.container {
+    background-color: #1c1b1b;
+    height:1100px;
+    width: 1200px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: -50px 50px 0°, 8%, 5%;
+}
+div .main-heading {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+ div .subtext {
+    text-align: center;
+    color: aliceblue;
+ }
